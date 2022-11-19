@@ -14,8 +14,11 @@ This repository was compiled in order to present more digestable information abo
 - Relevant to nearly all U.S. citizens, as COVID-19 is a pandemic that has affected society at large
 
 ![Cases-2022](https://github.com/emmalittle/105-Unit-3/blob/main/Repository%20Data/Cases-22.png)
+
 ![Deaths-2022](https://github.com/emmalittle/105-Unit-3/blob/main/Repository%20Data/Deaths-22.png)
+
 ![Always](https://github.com/emmalittle/105-Unit-3/blob/main/Repository%20Data/Always.png)
+
 ![AlwaysBubble](https://github.com/emmalittle/105-Unit-3/blob/main/Repository%20Data/AlwaysBubble.png)
 
 ## Prospective Users
