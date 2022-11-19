@@ -11,7 +11,7 @@ This repository was compiled in order to present more digestable information abo
 ![Cases-2022](https://github.com/emmalittle/105-Unit-3/blob/main/Repository%20Data/Cases-22.png)
 ![Deaths-2022](https://github.com/emmalittle/105-Unit-3/blob/main/Repository%20Data/Deaths-22.png)
 ![Always](https://github.com/emmalittle/105-Unit-3/blob/main/Repository%20Data/Always.png)
-![AlwaysBubble](/Repository_Data/AlwaysBubble.png)
+![AlwaysBubble](https://github.com/emmalittle/105-Unit-3/blob/main/Repository%20Data/AlwaysBubble.png)
 
 ## Potential
 Ideally, people should be able to look at the combined and comparative data in this repository and extrapolate their own conclusions about COVID-19 and mask wearing. Using this more condensed data should also allow viewers to expand these datasets into their own repositories and analysis more easily than if they were to use all of the original data.
