@@ -7,7 +7,7 @@ The data used in this repository was found from the NY Times repository for COVI
 - [Mask Use Data](https://github.com/nytimes/covid-19-data/blob/master/mask-use/mask-use-by-county.csv)
 
 ## Repository Data
-This repository was compiled in order to present more digestable information about COVID-19 in 2022:
+This repository was compiled in order to present more digestible information about COVID-19 in 2022:
 - Provides the viewer with comparisons between COVID data and mask wearing data
 - Presents information objectively to allow viewers to make their own conclusions
 - Understandable to the general public without any specific background information necessary
