@@ -8,7 +8,7 @@ The data used in this repository was found from the NY Times repository for COVI
 
 ## Purpose
 This repository was compiled in order to present more digestable information about COVID-19 in 2022. Additionally, this repository provides the viewer with comparisons between COVID data and mask wearing data. The goal is not to sway the audience one way or another in terms of ideas regarding COVID-19, but rather to present the information objectively and allow the viewers to make their own conclusions about the data. The data presented in this repository should be digestable to the general public without any specific background information necessary to understand the composed data or related visualizations. Furthermore, this data should be relevant to nearly all U.S. citizens, as COVID-19 is a pandemic that has affected society at large.
-![Cases-2022](/Repository_Data/Cases-22.png)
+![Cases-2022](https://github.com/emmalittle/105-Unit-3/blob/main/Repository%20Data/Cases-22.png)
 ![Deaths-2022](/Repository_Data/Deaths-22.png)
 ![Always](/Repository_Data/Always.png)
 ![AlwaysBubble](/Repository_Data/AlwaysBubble.png)
